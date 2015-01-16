@@ -1,6 +1,8 @@
 # ChartieClient
 Chartie Client is a java desktop application to explore the Chartie service through a simple gui.
+
 To start working with Chartie Client:
+
   1) Sign up (http://www.holsys.com/createAccount.php)
   2) Get api key from your account panel (http://www.holsys.com/appManager.php)
 
