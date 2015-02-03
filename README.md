@@ -5,4 +5,4 @@ In this repository you will find the compiled setup for Windows.
 
 Java source code will be soon available.
 
-For futher info see the wiki page or visit www.holsys.com
+For futher info see the wiki page or visit www.chartie.io
